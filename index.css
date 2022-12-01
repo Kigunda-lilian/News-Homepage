@@ -25,7 +25,6 @@ body {
 .header_nav {
   display: flex;
   gap: 1rem;
-  
 }
 
 .options_container {
@@ -44,7 +43,6 @@ body {
   display: flex;
   gap: 1rem;
 }
-
 
 .options_container_divs_figure > img {
   object-fit: contain;
